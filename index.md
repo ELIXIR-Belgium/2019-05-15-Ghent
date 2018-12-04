@@ -46,10 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
+<h1>Genomics and scripting</h1>
 
 <h2 id="general">General Information</h2>
 
@@ -138,7 +135,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
   Modify the block below if there are any barriers to accessibility or
   special instructions.
-{% endcomment %}
+
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
@@ -148,11 +145,10 @@ and our administrator may contact you if we need any extra information.</h4>
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
+{% endcomment %}
 <p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
+  Digital materials can be found linked to the schedule. If we can help making learning easier for
+  you please
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
