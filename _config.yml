@@ -7,10 +7,10 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "dc"
+carpentry: "swc"
 
 # Overall title for pages.
-title: "2019-05-13-Ghent"
+title: "2019-05-15-Ghent"
 
 
 #------------------------------------------------------------
