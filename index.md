@@ -47,6 +47,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <h1>Genomics and scripting</h1>
+<p>This is a Data Carpentry Workshop, with a special focus on Genomics data handling and scripting. For those unfamiliar with the concept, Data Carpentry aims at systematically delivering workshops on the fundamental data skills needed to conduct research. What you will learn during the workshop will largely influence the way in which you handle data in a fully independent way, free from proprietary software and storage platforms. The workshop will be run by Mateusz Kusak and Toby Hodges, both highly qualified instructors of the Carpentries (https://carpentries.org/). The contents of this workshop will be the Genomics Curriculum https://datacarpentry.org/lessons/#genomics-workshop. Attendance will be granted for FREE to up to 35 participants that need to apply before April 30th at noon. Check <a href="https://datacarpentry.org/workshops-attend/">what to expect if you’re attending a workshop </a>.
+</p>
 
 <h2 id="general">General Information</h2>
 
