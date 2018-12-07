@@ -202,7 +202,7 @@ Adding some logos here
 {% endcomment %}
 
 <h3 id="certh">Thanks to</h3>
-This workshop is funded by ELIXIR and ELIXIR-BE. 
+This workshop is funded by ELIXIR and ELIXIR Belgium, and forms part of the ELIXIR Tools platform "Software development best practices" working group.  
 
 <div class="sponsor-logos">
   <a href="https://www.elixir-europe.org/" title="ELIXIR">
