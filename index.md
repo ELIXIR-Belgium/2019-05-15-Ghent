@@ -198,6 +198,22 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 
 {% comment %}
+Adding some logos here
+{% endcomment %}
+
+<h2 id="certh">Sponsor</h2>
+This workshop is funded by ELIXIR and ELIXIR-Be. 
+
+<div class="sponsor-logos">
+  <a href="https://www.elixir-europe.org/" title="ELIXIR">
+    <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="120"/>
+  </a>
+  <a href="https://www.elixir-belgium.org/" title="ELIXIR-BE">
+    <img style="margin-right:50px" alt="ELIXIR-BE" src="fig/ELIXIR-BE400x400.jpg" width="120"/>
+  </a>
+</div>
+
+{% comment %}
   SCHEDULE
 
   Show the workshop's schedule.  Edit the items and times in the table
