@@ -201,8 +201,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 Adding some logos here
 {% endcomment %}
 
-<h2 id="certh">Sponsor</h2>
-This workshop is funded by ELIXIR and ELIXIR-Be. 
+<h3 id="certh">Sponsors</h3>
+This workshop is funded by ELIXIR and ELIXIR-BE. 
 
 <div class="sponsor-logos">
   <a href="https://www.elixir-europe.org/" title="ELIXIR">
