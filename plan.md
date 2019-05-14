@@ -35,19 +35,19 @@
     - collaborators
 - there are different kinds of documentation
   - start with README.md
-  - there (web) tools/plarforms that make it easier:
+  - there are (web) tools/plarforms that make it easier:
     - sphinx
     - readthedocs
-- release on github, connect to zeno, get a DOI
+- release on github, connect to zenodo, get a DOI
 - what other files?
   - CONTRIBUTING.md
   - CITE.cff
     - why citation?
     - we need recognition for software and that will not happen if there is no way to cite software
-  - COC
+  - Code of Conduct
   - requirements.txt/environment.yml
   - CHANGELOG.md
-  - metadata description (codemeta, schema.org, requirements by different journal eg. SoftwareX)
+  - metadata description (codemeta, schema.org, requirements by different journals eg. SoftwareX)
   - license
 - other ways to increase reusability of your software
   - containers (biocontainers)
@@ -88,7 +88,7 @@
   - responsibilities
   - bdfl
   - RFCs
-- be kind to the contributors and have the guidelines
+- be kind to the contributors and have the guidelines (CONTRIBUTING.md)
 - differnt kinds of documentation and their purpose
   - email
   - issues
@@ -100,10 +100,11 @@
 ## Make software easy to discover by providing software metadata via a popular community registry
 
 - why is discoverability of your software important
-  - have you aver tries to find softare used in a paper? How easy was it?
+  - have you ever tried to find softare used in a paper? How easy was it?
 - what is metadata?
   - why structured metadata (machine readibility)?
   - if you have structured citation info (.cff) you can pull all the citation info
+  - example of metadata in R package (http://r-pkgs.had.co.nz/description.html)
 - controlled vocabularies, ontologies etc
   - dublin core
   - schema.org
@@ -120,4 +121,4 @@
 ## wrap up
 
 - one up one down
-- WWW /TALA
+- WWW / TALA
