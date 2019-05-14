@@ -7,6 +7,7 @@
   - who they are, where they work
   - one top best practice for research software
 - expectations for the workshop
+- introduce Software Development Best Practices WG of ELIXIR tools platform, papers and 4OSS
 - exercise (in pairs): challanges when reusing someone elses research software
 - exercise (in pairs): challanges in making your own sofware open, what they did to make it easier for others to reuse their software
 - exercise (pairs)
