@@ -52,6 +52,7 @@
 - other ways to increase reusability of your software
   - containers (biocontainers)
   - packaging
+- computational notebooks (eg. Jupyter Notebook)
 
 
 ## choose a license
