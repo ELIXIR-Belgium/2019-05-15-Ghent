@@ -14,7 +14,7 @@
   - what are the fears of opening up the code?
   - what are the fears of contributing to someones code?
 
-## make sources code publicly available from day one
+## make sources code publicly accessible from day one
 
 - start with empty README.md file
 - introduction to markdown
